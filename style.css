@@ -4,9 +4,9 @@
   --surface: rgba(15, 23, 42, 0.92);
   --surface-strong: rgba(15, 23, 42, 0.98);
   --text: #f8fafc;
-  --muted: #cbd5e1;
-  --accent: #818cf8;
-  --accent-strong: #6366f1;
+  --muted: #dbcbe1;
+  --accent: #ee81f8;
+  --accent-strong: #d063f1;
   --border: rgba(148, 163, 184, 0.18);
   --shadow: 0 24px 80px rgba(15, 23, 42, 0.35);
 }
